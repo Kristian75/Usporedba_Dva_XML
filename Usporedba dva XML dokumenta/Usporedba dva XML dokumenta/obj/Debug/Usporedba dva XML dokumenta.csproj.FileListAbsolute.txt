@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\bin\Debug\Usporedba dva XML dokumenta.exe.config
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\bin\Debug\Usporedba dva XML dokumenta.exe
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\bin\Debug\Usporedba dva XML dokumenta.pdb
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\obj\Debug\Usporedba dva XML dokumenta.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\obj\Debug\Usporedba dva XML dokumenta.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\obj\Debug\Usporedba dva XML dokumenta.exe
+C:\Users\Ucenik\source\repos\Usporedba dva XML dokumenta\Usporedba dva XML dokumenta\obj\Debug\Usporedba dva XML dokumenta.pdb
